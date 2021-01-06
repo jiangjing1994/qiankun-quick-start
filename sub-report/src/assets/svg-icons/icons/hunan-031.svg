@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="338" height="40" viewBox="0 0 338 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #112e67;
+        stroke: #0e8bff;
+        stroke-width: 1px;
+        opacity: 0.7;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #20d2ff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+        filter: url(#filter);
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #20d2ff;
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="292" y="6" width="27" height="26" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="1.333" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#16ccf9" flood-opacity="0.7"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" mode="screen" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="306" y="19" width="16" height="16" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="1.333" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#16ccf9" flood-opacity="0.7"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" mode="screen" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="矩形_4" data-name="矩形 4" class="cls-1" x="1" y="1" width="336" height="38" rx="19" ry="19"/>
+  <g style="fill: none; filter: url(#filter)">
+    <path id="椭圆_1" data-name="椭圆 1" class="cls-2" d="M300.175,13.287a7.936,7.936,0,0,1,11.175,0,7.821,7.821,0,0,1,0,11.108,7.936,7.936,0,0,1-11.175,0A7.821,7.821,0,0,1,300.175,13.287Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#椭圆_1" style="stroke: #20d2ff; filter: none; fill: none"/>
+  <path id="矩形_5" data-name="矩形 5" class="cls-3" d="M310.108,24.395l1.242-1.234,6.209,6.171-1.242,1.234Z"/>
+</svg>

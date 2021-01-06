@@ -1,0 +1,8 @@
+@import '~@/assets/style/variables.scss';
+@import '~@/assets/style/mixin/mixin.scss';
+@import '~@/assets/style/theme/theme-base.scss';
+//包括主题的相关配置信息
+@import '~@/assets/style/theme/default/index.scss';
+//调取theme的主题样式
+@import "~element-ui/packages/theme-chalk/src/index";
+

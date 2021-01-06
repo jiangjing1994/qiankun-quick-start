@@ -1,0 +1,11 @@
+
+//导入mixin
+@import '~@/assets/style/mixin/mixin.scss';
+//基础颜色
+@import '~@/assets/style/unit/color.scss';
+// 补丁 base
+@import '~@/assets/style/fixed/base.scss';
+// 补丁 element
+@import '~@/assets/style/fixed/element.scss';
+
+$prefix: ren;

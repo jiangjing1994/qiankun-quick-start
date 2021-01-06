@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="456" height="44" viewBox="0 0 456 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #2a70e9;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #0e78cb;
+        opacity: 0.2;
+      }
+    </style>
+  </defs>
+  <path id="圆角矩形_1_拷贝_3" data-name="圆角矩形 1 拷贝 3" class="cls-1" d="M22,1H267a21,21,0,0,1,21,21h0a21,21,0,0,1-21,21H22A21,21,0,0,1,1,22H1A21,21,0,0,1,22,1Z"/>
+  <rect id="圆角矩形_1_拷贝" data-name="圆角矩形 1 拷贝" class="cls-2" x="1" y="1" width="287" height="42" rx="21" ry="21"/>
+</svg>

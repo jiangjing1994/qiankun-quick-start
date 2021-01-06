@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="107" height="41" viewBox="0 0 107 41">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0e8bff;
+        opacity: 0.32;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        opacity: 0.68;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: aqua;
+        stroke-width: 1px;
+      }
+
+      .cls-3 {
+        fill: #0e5aa8;
+        fill-opacity: 0;
+      }
+    </style>
+  </defs>
+  <path id="矩形_3" data-name="矩形 3" class="cls-1" d="M0.984,5.93L8.5,0.993H99.016l7,4.936V35.273l-7.482,4.718H9.432L0.984,35.055V5.93Z"/>
+  <path id="矩形_3_拷贝_3" data-name="矩形 3 拷贝 3" class="cls-2" d="M0.984,5.93L8.5,0.993H99.016l7,4.936V35.273l-7.482,4.718H9.432L0.984,35.055V5.93Z"/>
+  <path id="矩形_3_拷贝_4" data-name="矩形 3 拷贝 4" class="cls-3" d="M1.015,5.93L8.526,0.993H98.989l7,4.936V35.273l-7.478,4.718H9.458L1.015,35.055V5.93Z"/>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="143" height="67" viewBox="0 0 143 67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #111834;
+        fill-opacity: 0;
+        stroke-linejoin: round;
+        stroke-opacity: 0.8;
+        stroke: url(#linear-gradient);
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #dce115;
+        stroke: #dce115;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1.688" y1="32.531" x2="141.75" y2="32.531" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6ff00"/>
+      <stop offset="1" stop-color="#ffe400"/>
+    </linearGradient>
+    <filter id="filter" x="1.688" y="1.156" width="140.063" height="62.75" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#051b38" flood-opacity="0.6"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feGaussianBlur result="blur" stdDeviation="5" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-color="#fffd02" flood-opacity="0.25"/>
+      <feComposite result="composite-3" operator="out" in2="blur"/>
+      <feComposite result="composite-2" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-2" in2="blend"/>
+    </filter>
+  </defs>
+  <g style="fill: #111834; filter: url(#filter)">
+    <path id="矩形_4_拷贝_5" data-name="矩形 4 拷贝 5" class="cls-1" d="M16.715,1.148l125.02,0.54V63.913H2.249L1.693,15.094Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#矩形_4_拷贝_5" style="stroke: url(#linear-gradient); filter: none; fill: none"/>
+  <path id="矩形_5_拷贝_5" data-name="矩形 5 拷贝 5" class="cls-2" d="M1.173,1.033H11.695L1.173,9.962V1.033Z"/>
+  <image id="图层_1014_拷贝_16" data-name="图层 1014 拷贝 16" x="3" y="50" width="137" height="22" xlink:href="data:img/png;base64,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"/>
+</svg>

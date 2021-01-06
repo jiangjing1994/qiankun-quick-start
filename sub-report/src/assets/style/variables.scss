@@ -1,0 +1,9 @@
+$layout-header-height: 64px;
+$layout-aside-weight: 220px;
+
+$report-layout-aside-title: 48px;
+
+:export {
+    asideWidth: $layout-aside-weight;
+    asideWidthCollapse: $layout-header-height;
+}

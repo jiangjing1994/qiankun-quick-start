@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31" height="22" viewBox="0 0 31 22">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        opacity: 0.4;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #4bbefa;
+        stroke-width: 1px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="7.906" y1="11.297" x2="30" y2="11.297" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#004faa"/>
+      <stop offset="1" stop-color="#077aff"/>
+    </linearGradient>
+  </defs>
+  <path id="矩形_26_拷贝_3" data-name="矩形 26 拷贝 3" class="cls-1" d="M7.917,1.195H20.944l9.062,10.383-9.062,9.836H7.917V1.195Z"/>
+  <path id="矩形_26_拷贝_4" data-name="矩形 26 拷贝 4" class="cls-2" d="M0.009,0.005H14.121l9.818,11.3-9.818,10.7H0.009v-22Z"/>
+</svg>

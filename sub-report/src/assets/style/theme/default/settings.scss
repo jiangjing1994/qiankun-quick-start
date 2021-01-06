@@ -1,0 +1,66 @@
+// 主题名称
+$theme-name: 'default';
+// 主题背景颜色
+$theme-bg-color: #EEF0F8;
+// 主题背景图片遮罩
+$theme-bg-mask: rgba(#000, 0);
+
+//====================================================
+// element主题配置
+/* 改变主题色变量 */
+/* Color
+-------------------------- */
+/// color|1|Brand Color|0
+$--color-primary: #3699FF;
+/// color|1|Functional Color|1
+$--color-success: #1BC5BD;
+/// color|1|Functional Color|1
+$--color-warning: #FFA800 !default;
+/// color|1|Functional Color|1
+$--color-danger: #F64E60;
+/// color|1|Functional Color|1
+$--color-info: #909399 !default;
+
+/// color|1|Font Color|2
+$--color-text-primary: #303133 !default;
+/// color|1|Font Color|2
+$--color-text-regular: #606266 !default;
+/// color|1|Font Color|2
+$--color-text-secondary: #909399 !default;
+/// color|1|Font Color|2
+$--color-text-placeholder: #C0C4CC !default;
+/// color|1|Border Color|3
+$--border-color-base: #DCDFE6 !default;
+/// color|1|Border Color|3
+$--border-color-light: #E4E7ED !default;
+/// color|1|Border Color|3
+$--border-color-lighter: #EBEEF5 !default;
+/// color|1|Border Color|3
+$--border-color-extra-light: #F2F6FC !default;
+
+// Background
+/// color|1|Background Color|4
+$--background-color-base: $theme-bg-color;
+
+/* 改变 icon 字体路径变量，必需 */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+// ====================================================
+// 主界面-头部-Header
+$theme-layout-header-bg: white;
+$theme-layout-header-brand-bg: #1a1a27;
+
+
+// =====================================================
+// 主界面-左侧边栏-aside
+$theme-layout-aside-bg: #1e1e2d;
+// 侧边栏上的文字颜色
+$theme-aside-item-color: #a2a3b7;
+$theme-aside-svg-item-color: #494b74;
+$theme-aside-item-background-color: transparent;
+// 侧边栏上的项目在 hover 时
+$theme-aside-item-color-hover: #f5f5f5;
+$theme-aside-svg-item-color-hover: #3699FF;
+$theme-aside-item-background-color-hover: #1b1b28;
+// header下方的线的颜色
+$theme-content-article-top-line-color: rgb(235, 237, 243);

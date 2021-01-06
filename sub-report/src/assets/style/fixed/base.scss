@@ -1,0 +1,32 @@
+// 优化显示
+html, body {
+  margin: 0px;
+  height: 100%;
+  //font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+  font-family: "open sans", "Helvetica Neue", "PingFang SC", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  #app {
+    @extend %full;
+    a {
+      text-decoration: none;
+    }
+  }
+  *{
+    &::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+    }
+    &::-webkit-scrollbar-thumb {/*滚动条里面小方块*/
+      border-radius: 5px;
+      background: rgba(0,0,0,0.2);
+    }
+    &::-webkit-scrollbar-track {/*滚动条里面轨道*/
+      background:transparent;
+    }
+  }
+
+}
+
+* {
+  box-sizing: border-box;
+}

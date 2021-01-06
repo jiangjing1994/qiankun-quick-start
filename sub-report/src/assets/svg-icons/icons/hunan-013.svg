@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="143" height="67" viewBox="0 0 143 67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #111834;
+        fill-opacity: 0;
+        stroke-linejoin: round;
+        stroke-opacity: 0.8;
+        stroke: url(#linear-gradient);
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #00d2ff;
+        stroke: #00d2ff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1.406" y1="33.453" x2="140.906" y2="33.453" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#04e7f9"/>
+      <stop offset="1" stop-color="#028efb"/>
+    </linearGradient>
+    <filter id="filter" x="1.406" y="2" width="139.5" height="62.906" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#062959" flood-opacity="0.35"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feGaussianBlur result="blur" stdDeviation="5.333" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-color="#05d2e7" flood-opacity="0.25"/>
+      <feComposite result="composite-3" operator="out" in2="blur"/>
+      <feComposite result="composite-2" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-2" in2="blend"/>
+    </filter>
+  </defs>
+  <g style="fill: #111834; filter: url(#filter)">
+    <path id="矩形_4_拷贝_14" data-name="矩形 4 拷贝 14" class="cls-1" d="M18,2L140.9,2.69V64.915H1.412L1.929,16.094Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#矩形_4_拷贝_14" style="stroke: url(#linear-gradient); filter: none; fill: none"/>
+  <image id="图层_1014_拷贝_11" data-name="图层 1014 拷贝 11" x="3" y="51" width="137" height="22" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIkAAAAWCAMAAADDyk9tAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACW1BMVEU7kuv///88kus8k+tGmOxepu6IvfO42PjW6PvB3fmDu/Jdpe87kus7kus7kus7kus7kus7kus7kus6kus7kus6kes4kOs1j+o3kOs6kus7kus7kus5kes5kes8k+tImexJmuxAles+k+s6kes3j+tFl+xToO1ysPB8tvFwr/Bhp+9Blew2j+s3kOs5kes7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus+lOtEl+xNnO1Xoe5kqe9/uPKgyvXQ5fr////R5vqmzfaFu/NprPBao+5Qnu1HmOxAles6kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus8kus9k+s/lOtBluxDl+xSn+1urvCQwfPO5Pru9v3O5Pqbx/VurvBTn+1FmOxCluxAlOs+k+s8k+s7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus7kus6kus5kes4kOs1j+s1j+pDluxdpe97tvGIvPN7tfFUoO5El+w1juo0jus4kOs5kes6kes7kus7kus7kus7kus5kes6ketCluxFl+xKmuxMnO0/lew6kes5kes7kus6kes3kOs2j+o2j+s4kOs6kes6kus6kes6kusAAAANgWEEAAAAyHRSTlMAAAAAAAAAAAAAAAABAgMEBQYHBQgICAgICAkKCgsMDAwMCwcICAkJCgkICAgHCAsMDQ4PERIUFRYXGBkbHB4gISIjJCUmJycnKCgoJykoKCgpKCcmJiUfHRoTECYpLC4xMzU4Oj0/QkZJS1BTVlpfYWVnam5ydXh7fYGDhIeJiYqLi4mHhIJ/fHl0cGtpZGBcV09KR0E3MisoKi0wNFRbaG51fIKGjZKTlpWTj4mEf3hxWVJMJSgrLC4xLy4uJwQEBQYFBQ0OD7I4ixwAAAABYktHRMgdulfKAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAB3RJTUUH5AwOBysa6nN7kAAAA09JREFUSMfNlvdb00AYx4vgbpphFEjAhXt1QFsoLXa5xa2FFgSxICoq7i3ujQMEQdx77z1x/1veXa5N0iZtUH7w2/EkaZ97P/fO0+kj0ikrJUa6bpa48H9HQqiR6DXrX0kIgjBAEYkZCPCG6nYmkcRACjKoYQj2CW3qOo9IQlIkBUSTeqVASIwYwAv7T0VxOH9DwjCUjES+U7nBiBPxBdgFPQBuBj3DPNp9IyFBSzGsQBJnO2KNwrai19CPQAzDDhyUnp6RkckA0fA/SjR6bSRwQZYGJLEc2C4tFyN8A7Ecx/FZ2YOHDB02PDuL5zhWDqOFRZkEVohewSeiGyh4gz4AkKKZzJyMESNHjR4zdtz4CRMn5dCAg4rDUA8N+C0mOhTNUtGSkeQLvkxJiTwQOpu4eI9UXVrPXr379O3XP02XmtqV8lXIWOQTjiZgdAzIRcDvLMvxvNFkNlssuXlWq9Vmt+cXOAoLnS5XUdFkt8fj9fn8U6ZOmz5j5qzZxcXFc+bOm79g4aLF/iVej8cdKClxljoK8m3BYF7IYjEbjSByLIyckNc4j0gYTHCP7nA/oeCfQIw43gjM5+YFbXZg1wlsen1l5UsrKpdVLQ9X16yoXblqdd2atevq12/YuGnzlq3btu/YuWv3noa9+/YfOHjo8JGjx46fONl46vSZs3VNzedaqsOt5yva2n2egKvUYbdZQwCKR0yIgIzmFPQ/TgmSggnI0jRwBoedAb0RDNryHSUBt8fr95eVtZdf6Lh4qTVc3VLb3HT5Sv3Va9dv3Lx1+87de/cfPHz0+MnTZ431z1+8rK0JV1V2tPvdAVdhgS0YspiAeWA7mkCK0SFwYlIgIjxDyOsH1w4qEigeRswEGENWSOh0BTzeV6/fvH33/sPHT23ln/3RzedazCa4fWH3pHrf08eRoE5FJMgo+SzGwwiu/6Wz8+u37z9omG8wyqSk4SYfSdJZrNqfJQ3XEN9iUFrzKK9+/voN/IS8gN0gxD/qCLEWE5JIB64MRCdt/PEdBtMIQQMIqDwYsUDknTZ5FSd0XsyRQJpA0jGAmq44EAxaKeQkiaUyl2NmY3QmKgREe7dP2gPVjkNJzyfajgZdIMECnV7a9hMo6ZLKJH8Ac9XLfG2XsxcAAAAASUVORK5CYII="/>
+  <path id="矩形_5_拷贝_14" data-name="矩形 5 拷贝 14" class="cls-2" d="M2.336,2.033H12.857L2.336,10.963V2.033Z"/>
+</svg>

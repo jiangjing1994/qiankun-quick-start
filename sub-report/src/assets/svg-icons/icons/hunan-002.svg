@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="73" viewBox="0 0 17 73">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #04a1f7;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        opacity: 0.7;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #04a1f7;
+        stroke-width: 2px;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="-10" y="-12" width="37" height="36" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="4" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#01a9ff" flood-opacity="0.35"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" mode="screen" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="形状_3_拷贝_13" data-name="形状 3 拷贝 13" class="cls-1" d="M7.563,65.151H3.983l4.548,6.838,4.549-6.838H8.673"/>
+  <path id="形状_5_拷贝_7" data-name="形状 5 拷贝 7" class="cls-2" d="M8.138,10.2H8.924V65.108H8.138V10.2Z"/>
+  <g style="fill: none; filter: url(#filter)">
+    <circle id="椭圆_1" data-name="椭圆 1" class="cls-3" cx="8.109" cy="5.813" r="4.141" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#椭圆_1" style="stroke: #04a1f7; filter: none; fill: none"/>
+  <image id="椭圆_6_拷贝_54" data-name="椭圆 6 拷贝 54" x="-1" y="29" width="19" height="17" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAARCAMAAAAIRmf1AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACo1BMVEWM+/GL+/GM/PGM/PKL+/GM+/GM/PGM/PKM+/GL+/GM+/GL/PGL+/GM+/GL/PKM+/GL/PGM/PGM+/GM+/GM+/GM/PKL/PGM+/GM/PGM/PGM/PKM/PKM/PGM/PGM/PGM+/GL+/KM+/GM/PKM+/GL+/GL+/GM/PGM/PKM/PGM/PKM/PGM+/GM+/GM/PGM/PGL+/GM/PKM/PKL+/GM+/GM/PKM/PGM+/GM/PKM/PGM+/GM/PGM/PKM/PKL+/GJ+/GI/PGJ/PGK/PGM/PKM/PGM/PGL+/GM/PKL/PGL+/GL+/GM/PKM/PKK+/GL+/KO/PKM+/GK/PGL+/GM+/GM/PKL+/GM+/GL+/GM+/GM+/KM+/KL+/GL+/GL/PGK/PGU/PO0/ffN/fq//Pid/PSL+/GL+/GM/PKM+/KM+/GM+/GM/PGM/PGM/PKL+/GK/PGL+/Gy/Pbw//3////8///I/fmS/PKJ/PGL+/GM+/GM/PGL+/GL+/GM+/GM/PKM+/GJ+/GM+/K+/Pj////////////Y/fuX/POI+/GL/PGM/PGM+/GL+/GL+/GM/PGM/PKL/PGL/PGk/PXZ/fv1//7n/v22/feP+/KJ+/GM/PGM/PKM+/GM/PKM/PGL+/GM+/KM/PGL/PKN/PKb/PSs/Paj/PWQ/PKL/PGL+/GL+/GM/PGM+/GM+/GM+/GM/PGL+/GM+/GL+/KK/PGI/PGH/PGH+/GJ+/GM+/GM+/GM/PGM/PGM+/KM/PGM/PGM+/GM/PGL/PGJ+/CK+/GL+/GL+/GM/PKM/PKM/PKM/PKM+/GM+/GM/PGM+/GM/PGL+/GM/PGM/PGM/PKM/PKM+/KM/PKM/PGM/PGM+/KM/PKM+/GM/PGM+/GM/PKM/PGL+/GM/PKM/PKM/PEAAAAeqtk6AAAA4HRSTlMAAAAAAQIDBQYHBwMCAQQLEBQXGRgWEQwIBQMCCRAZIy0zNjQvJx0TAQQSHi4/T1peXFNFNCMWAQ8dMUlje42VkYJsUjkjFAIXK2iMscjOzLuadFAzDQQDDB43WIGz2OHi4t7DkmVBJhEOIj5jk8rg4+fl4dancUkqFAYPP2aYzuDl6ejh2Kx0SysNIDtgjcTf4eTi4dGgbUYoBhsyUXilzNzf3dW0hl08EAUIEyY9fZy0vbilh2ctDRgpPlRqd357b1xFLxAHDiUzQUpORDgqHBEJBwwTGyIoKiQeCAsPArI54eAAAAABYktHROAoD/8wAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAB3RJTUUH5AwOCB0eb15pwQAAAV9JREFUGNMBVAGr/gAAAAAEBQYHCAkKCQgHCwwNAQEBAAICBQ4KDxAREhMUFRYXGBkaDQEAABsZHB0eHyAhIiMkJSYnDwgaAQAoKRwqKywtLi8wMTIzNDU2FwcFADcIODk6Ozw9Pj9AQUJDREVGHEcABRxISTNKS0xNTk9QUVJTVDlVVgBXWFlaW1xdXl9gYWJjZGVmZ2gHAFdpamtsbW5vcHFyc3R1dnd4eXoAGns1fH1+f4CBgoOEhYaHiIlGegBXiouMjY6PkJGSk5SVlpeYmSeaAAwPm5ydnp+goaKjpKWmp6hqqaoADKusra4xr7CxsrO0tbaYtx4PBgANqri5uru8vb6/wMHCw8Q5xcYFAA0GCscUyMnKy8yIzc7P0NHSKSgAAihX09TV1tfY2bra2zZ7GCkMAAADAzcaB9zdaR1oaN7Uq3pXKAMDAAICAgA3BN8GV1cGV98MBAADAwNVI3EuVCNXjgAAAABJRU5ErkJggg=="/>
+</svg>

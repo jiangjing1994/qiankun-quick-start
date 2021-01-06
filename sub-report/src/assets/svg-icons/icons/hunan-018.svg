@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124" height="112" viewBox="0 0 124 112">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 8.92px;
+      }
+
+      .cls-1 {
+        stroke: #4aace8;
+        opacity: 0.13;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        stroke: #020d32;
+        filter: url(#filter);
+      }
+
+      .cls-3 {
+        fill: #00b0ff;
+        filter: url(#filter-2);
+      }
+
+      .cls-4 {
+        fill: #0d97eb;
+      }
+    </style>
+    <filter id="filter" x="1.156" y="1.125" width="93.75" height="65" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="5.59375" y="5.59375" width="84.844" height="56.094" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iODQuODQ0IiBoZWlnaHQ9IjU2LjA5NCIgdmlld0JveD0iMCAwIDg0Ljg0NCA1Ni4wOTQiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB5MT0iMjguMDQ3IiB4Mj0iODQuODQ0IiB5Mj0iMjguMDQ3IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzAwOTZmZiIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzJlYTlmZiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iODQuODQ0IiBoZWlnaHQ9IjU2LjA5NCIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="78" y="1" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="2.667" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#2fc7ff"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="椭圆_804" data-name="椭圆 804" class="cls-1" d="M5.6,61.68a56.4,56.4,0,0,1,112.792,0"/>
+  <g style="fill: none; filter: url(#filter)">
+    <path id="椭圆_804_拷贝" data-name="椭圆 804 拷贝" class="cls-2" d="M5.6,61.68A56.467,56.467,0,0,1,90.447,13.233" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#椭圆_804_拷贝" style="stroke: #020d32; filter: none; fill: none"/>
+  <circle id="椭圆_805" data-name="椭圆 805" class="cls-3" cx="91.141" cy="14.172" r="5.266"/>
+  <path id="矩形_991" data-name="矩形 991" class="cls-4" d="M36.693,109.585H87.688L95.782,112H28.6Z"/>
+</svg>
