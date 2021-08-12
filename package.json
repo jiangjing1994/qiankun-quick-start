@@ -18,6 +18,11 @@
     "start:sub-react": "cd sub-react && yarn start || npm start",
     "start:sub-vue": "cd sub-vue && yarn start || npm start",
     "start:main": "cd main && yarn start || npm start",
+    "build": "npm-run-all --parallel build:*",
+    "build:sub-report": "cd sub-report && yarn build || npm build",
+    "build:sub-react": "cd sub-react && yarn build || npm build",
+    "build:sub-vue": "cd sub-vue && yarn build || npm build",
+
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

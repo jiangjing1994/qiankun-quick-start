@@ -6829,15 +6829,15 @@ q@^1.1.2:
   resolved "https://registry.npm.taobao.org/q/download/q-1.5.1.tgz#7e32f75b41381291d04611f1bf14109ac00651d7"
   integrity sha1-fjL3W0E4EpHQRhHxvxQQmsAGUdc=
 
-qiankun@^2.0.22:
-  version "2.3.5"
-  resolved "https://registry.npm.taobao.org/qiankun/download/qiankun-2.3.5.tgz#7b9ec35f9592a6b0c8db389ed51239bbaf9cb99b"
-  integrity sha1-e57DX5WSprDI2zie1RI5u6+cuZs=
+qiankun@^2.4.6:
+  version "2.4.6"
+  resolved "https://registry.npmjs.org/qiankun/-/qiankun-2.4.6.tgz#a24799b5ad25c38f54323d0f2bf8460495018a10"
+  integrity sha512-NdZK50wS3WIx9T/1uSLDF6bWEc5DahOdvpEqusCCNT1tO01YzT6JfDjZDGLl9p0oBIGu1u8IRvKlMVSyJCLVlg==
   dependencies:
     "@babel/runtime" "^7.10.5"
     import-html-entry "^1.9.0"
     lodash "^4.17.11"
-    single-spa "5.8.1"
+    single-spa "^5.9.2"
     tslib "^1.10.0"
 
 qs@6.7.0:
@@ -7455,10 +7455,10 @@ simple-swizzle@^0.2.2:
   dependencies:
     is-arrayish "^0.3.1"
 
-single-spa@5.8.1:
-  version "5.8.1"
-  resolved "https://registry.npm.taobao.org/single-spa/download/single-spa-5.8.1.tgz#86c2575e297e31d8f06945944ec97e31851a59ae"
-  integrity sha1-hsJXXil+MdjwaUWUTsl+MYUaWa4=
+single-spa@^5.9.2:
+  version "5.9.3"
+  resolved "https://registry.npmjs.org/single-spa/-/single-spa-5.9.3.tgz#2d151cbb3b273629a5b27b30a3b8ca847dcba4c5"
+  integrity sha512-qMGraRzIBsodV6569Fob4cQ4/yQNrcZ5Achh3SAQDljmqUtjAZ7BAA7GAyO/l5eizb7GtTmVq9Di7ORyKw82CQ==
 
 slash@^1.0.0:
   version "1.0.0"
